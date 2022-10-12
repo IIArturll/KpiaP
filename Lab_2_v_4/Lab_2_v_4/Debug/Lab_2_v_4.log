@@ -1,0 +1,6 @@
+﻿  Lab_2_v_4.cpp
+C:\Users\Artur\source\repos\Lab_2_v_4\Lab_2_v_4\Lab_2_v_4.cpp(196): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\Artur\source\repos\Lab_2_v_4\Lab_2_v_4\Lab_2_v_4.cpp(187): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\Artur\source\repos\Lab_2_v_4\Lab_2_v_4\Lab_2_v_4.cpp(176): warning C4172: возвращение адреса локальной или временной переменной : prev
+C:\Users\Artur\source\repos\Lab_2_v_4\Lab_2_v_4\Lab_2_v_4.cpp(83): warning C4172: возвращение адреса локальной или временной переменной : prev
+  Lab_2_v_4.vcxproj -> C:\Users\Artur\source\repos\Lab_2_v_4\Debug\Lab_2_v_4.exe
