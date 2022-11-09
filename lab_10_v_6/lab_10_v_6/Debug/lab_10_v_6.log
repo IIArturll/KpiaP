@@ -1,0 +1,14 @@
+﻿  lab_10_v_6.cpp
+C:\Users\Artur\source\repos\lab_10_v_6\lab_10_v_6\lab_10_v_6.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Artur\source\repos\lab_10_v_6\lab_10_v_6\lab_10_v_6.cpp(14): message : во время компиляции функции-члена класс шаблон "int Ring<double>::find(T)"
+          with
+          [
+              T=double
+          ]
+C:\Users\Artur\source\repos\lab_10_v_6\lab_10_v_6\lab_10_v_6.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Ring<double>::find(T)"
+          with
+          [
+              T=double
+          ]
+C:\Users\Artur\source\repos\lab_10_v_6\lab_10_v_6\lab_10_v_6.cpp(125): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Ring<double>"
+  lab_10_v_6.vcxproj -> C:\Users\Artur\source\repos\lab_10_v_6\Debug\lab_10_v_6.exe
